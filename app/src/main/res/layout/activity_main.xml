@@ -39,8 +39,8 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="550dp"
-            android:background="@drawable/mau2"
+            android:layout_height="520dp"
+            android:background="@color/white"
             android:orientation="vertical">
 
             <LinearLayout
@@ -163,7 +163,7 @@
                     android:layout_height="wrap_content"
                     android:text="Save Password"
                     android:textColor="#0645E3"
-                    android:textSize="14sp"
+                    android:textSize="16sp"
                     android:textStyle="bold"/>
                 <Button
                     android:id="@+id/singIn"
@@ -172,6 +172,7 @@
                     android:layout_gravity="center"
                     android:layout_marginStart="24dp"
                     android:layout_marginEnd="24dp"
+                    android:layout_marginTop="15dp"
                     android:elevation="15dp"
                     android:gravity="center"
                     android:text="@string/log_in"
@@ -187,8 +188,9 @@
                     android:text="Forget Password?"
                     android:gravity="center"
                     android:padding="10dp"
+                    android:layout_marginTop="15dp"
                     android:textColor="#0645E3"
-                    android:textSize="14sp"
+                    android:textSize="16sp"
                     android:textStyle="bold" />
 
 
@@ -332,7 +334,7 @@
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@+id/layout2"
+        android:layout_height="130dp"
+        android:layout_alignParentBottom="true"
         android:background="@drawable/mau3"></LinearLayout>
 </RelativeLayout>

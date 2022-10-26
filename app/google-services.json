@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931064581948",
+    "project_id": "leduchoang-baitapcuoiky",
+    "storage_bucket": "leduchoang-baitapcuoiky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931064581948:android:370ee9904571e564871839",
+        "android_client_info": {
+          "package_name": "com.example.leduchoang_2050531200150_baitapcuoiky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931064581948-rnourspqv1o2ccjrggedq1dnn08g2ih6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDepJXvFSXiCBzkDdajtTBKLHpPpO95aTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931064581948-rnourspqv1o2ccjrggedq1dnn08g2ih6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

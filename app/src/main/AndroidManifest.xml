@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LeDucHoang_2050531200150_BaiTapCuoiKy">
         <activity
+            android:name=".HomePage"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
