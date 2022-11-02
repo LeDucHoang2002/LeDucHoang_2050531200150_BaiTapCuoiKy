@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.leduchoang_2050531200150_baitapcuoiky">
+    package="com.example.leduchoang_2050531200150_baitapcuoiky" >
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
+        android:label="App Giải Trí"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LeDucHoang_2050531200150_BaiTapCuoiKy">
+        android:theme="@style/Theme.LeDucHoang_2050531200150_BaiTapCuoiKy" >
         <activity
-            android:name=".HomePage"
+            android:name=".MainActivity4"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".AddActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".ListStatusActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SingInSignUp"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

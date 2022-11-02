@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/layoutItem"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="6dp"
+    android:elevation="6dp"
+    android:layout_margin="3dp"
+    android:background="@drawable/vien2"
+    app:cardUseCompatPadding="true">
+    <RelativeLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/patrick_hand"
+            android:gravity="center"
+            android:text="Name Status"
+            android:textColor="#FF0000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <RelativeLayout
+            android:id="@+id/layout"
+            android:layout_below="@+id/name"
+            android:layout_width="150dp"
+            android:layout_height="120dp"
+            android:layout_centerHorizontal="true">
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:src="@drawable/profile" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/nameSingel"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/layout"
+            android:fontFamily="@font/architects_daughter"
+            android:gravity="center"
+            android:text="Name Status"
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:textStyle="italic" />
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/nameSingel"
+            android:layout_centerHorizontal="true"
+            android:gravity="bottom"
+            android:text="Name Status"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:textStyle="italic" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_alignParentBottom="true"
+    android:gravity="right"
+    android:layout_height="wrap_content">
+    <ImageButton
+        android:id="@+id/btnDelete"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/ic_delete" />
+
+    <ImageButton
+        android:id="@+id/btnEdit"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:background="@drawable/ic_updata" />
+</LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

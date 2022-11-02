@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/bg_dish.xml" value="0.174" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/ic_facebook.xml" value="0.174" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/ic_list.xml" value="0.174" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/ic_twitter.xml" value="0.174" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/list_bordertop.xml" value="0.208" />
@@ -15,13 +16,54 @@
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/navigation_ic_home.xml" value="0.1055" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/switch_trcks.xml" value="0.174" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/vien.xml" value="0.174" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/circle.xml" value="0.1475" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/circle_border.xml" value="0.1475" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/ic_delete.xml" value="0.1935" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/mau4.xml" value="0.1475" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/quayve.xml" value="0.1475" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/serlector.xml" value="0.1935" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/font/font_dish.xml" value="0.28020833333333334" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_add.xml" value="0.161231884057971" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_home_fragment.xml" value="0.18931159420289856" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_home_page.xml" value="0.161231884057971" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main3.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main4.xml" value="0.2" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_new.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_profile.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_status.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/dialog_additem.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/fragment_detail.xml" value="0.161231884057971" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/fragment_home.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/fragment_list.xml" value="0.2" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/fragment_notification.xml" value="0.2" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/item.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/music_item.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/sinlge_image_layout.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/status_item.xml" value="0.4" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/updatemusic.xml" value="0.161231884057971" />
         <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/LTDTDD/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/menu/search.xml" value="0.25" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/switch_trcks.xml" value="0.1745" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable-v24/switch_tumbs.xml" value="0.1745" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/ic_baseline_library_add_24.xml" value="0.1665" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/drawable/vien2.xml" value="0.1" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main2.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main3.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_main4.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_profile.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/activity_status.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/item.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/singin_signup.xml" value="0.264" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/status_item.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/status_item2.xml" value="0.264" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/layout/updatemusic.xml" value="0.161231884057971" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/LTDTDD/git/LeDucHoang_2050531200150_BaiTapCuoiKy/LeDucHoang_2050531200150_BaiTapCuoiKy/app/src/main/res/menu/search.xml" value="0.25" />
       </map>
     </option>
   </component>
